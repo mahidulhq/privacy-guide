@@ -1,2 +1,2 @@
-# privacy-guide
-A walkthrough for safety of your online privacy.
+# Privacy Matters
+A walkthrough for the safety of your online privacy.
